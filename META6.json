@@ -1,0 +1,25 @@
+{
+  "auth": "zef:jaguart",
+  "authors": [
+    "Jeff Armstrong"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+  ],
+  "description": "generate Raku code documentation",
+  "license": "Artistic-2.0",
+  "name": "Skry",
+  "perl": "6.d",
+  "provides": {
+    "Skry": "lib/Skry.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "",
+  "tags": [
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}
