@@ -1,7 +1,7 @@
 NAME
 ====
 
-Skry - blah blah blah
+Skry - generate Raku code documentation
 
 SYNOPSIS
 ========
@@ -13,12 +13,14 @@ use Skry;
 DESCRIPTION
 ===========
 
-Skry is ...
+Skry is a set of tools to generate Raku code documentation.
+
+It combines information from both POD and introspection to document the API's of your code.
 
 AUTHOR
 ======
 
-Jeff Armstrong <jeff@jamatic.tech>
+Jeff Armstrong <jeff@jaguart.tech>
 
 COPYRIGHT AND LICENSE
 =====================
