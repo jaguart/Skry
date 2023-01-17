@@ -1,4 +1,4 @@
-use v6.d+;
+use v6;
 
 #| A simple class identifying the nature of its content/descendants.
 class Skry::Cargo is export {
