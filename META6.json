@@ -7,7 +7,7 @@
   ],
   "depends": [
   ],
-  "description": "generate Raku code documentation",
+  "description": "Create Raku docs from Grok and Podium.",
   "license": "Artistic-2.0",
   "name": "Skry",
   "perl": "6.d",
