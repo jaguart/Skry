@@ -5,7 +5,7 @@ unit class Skry;
 
 =head1 NAME
 
-Skry - generate Raku code documentation
+Skry - create Raku docs from Grok and Podium.
 
 =head1 SYNOPSIS
 

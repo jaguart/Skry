@@ -1,7 +1,7 @@
 NAME
 ====
 
-Skry - generate Raku code documentation
+Skry - create Raku docs from Grok and Podium.
 
 SYNOPSIS
 ========

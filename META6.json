@@ -7,12 +7,19 @@
   ],
   "depends": [
   ],
-  "description": "Create Raku docs from Grok and Podium.",
+  "description": "create Raku docs from Grok and Podium.",
   "license": "Artistic-2.0",
   "name": "Skry",
   "perl": "6.d",
   "provides": {
-    "Skry": "lib/Skry.rakumod"
+    "Skry": "lib/Skry.rakumod",
+    "Skry::Cargo": "lib/Skry/Cargo.rakumod",
+    "Skry::DOM": "lib/Skry/DOM.rakumod",
+    "Skry::Grok": "lib/Skry/Grok.rakumod",
+    "Skry::Node": "lib/Skry/Node.rakumod",
+    "Skry::Node::Grok": "lib/Skry/Node/Grok.rakumod",
+    "Skry::Node::Pod": "lib/Skry/Node/Pod.rakumod",
+    "Skry::Pod": "lib/Skry/Pod.rakumod"
   },
   "resources": [
   ],
